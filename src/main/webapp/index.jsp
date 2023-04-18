@@ -1,11 +1,11 @@
 <html>
 <body>
-<h1><font color='red'> Welcome to Ashok IT - Software Training <font></h1>
-<h2>Learn Here.. Lead Anywhere..!! </h2>
+<h1><font color='red'> WELCOME TO RV COLLEGE OF ENGINEERING<font></h1>
+<h2>Go change the world..!! </h2>
 
-<a href="https://ashokitech.com/online-training-schedules">Click Here To See Ashok IT Training Schedules</a>
+<a href="https://https://www.rvce.edu.in/">Click Here To See Ashok IT Training Schedules</a>
   
-  <h2> Call Us : + 91 - 99 85 39 66 77 </h2>
+  <h2> Call Us : +91-080-68188100 /  8111 </h2>
 
 </body>
 </html>
